@@ -1,0 +1,148 @@
+{
+  "businessPlan": "## Business Overview\nmura\n\n## Customer Profile\nTarget customers identified from business context\n\n### Pain Points\n- Users come to Fashly because they love fashion but feel stuck in a cycle of buying more while wearing less. They want to look great for real life — date nights, work, casual weekends — without the morning panic of staring at a full closet and feeling like they have nothing to wear. Ultimately, they're trying to build confidence in their personal style while making smarter, more sustainable choices with the clothes they already own.\n\n## Key Problems\n- **Users come to Fashly because they love fashion but**: Users come to Fashly because they love fashion but feel stuck in a cycle of buying more while wearing less. They want to look great for real life — date nights, work, casual weekends — without the morning panic of staring at a full closet and feeling like they have nothing to wear. Ultimately, they're trying to build confidence in their personal style while making smarter, more sustainable choices with the clothes they already own.\n\n## Customer Journey\n# Fashly Journey Guide — AI Agent Playbook\n\n## 1. USER GOALS\n\nUsers come to Fashly because they love fashion but feel stuck in a cycle of buying more while wearing less. They want to look great for real life — date nights, work, casual weekends — without the morning panic of staring at a full closet and feeling like they have nothing to wear. Ultimately, they're trying to build confidence in their personal style while making smarter, more sustainable choices with the clothes they already own.\n\n---\n\n## 2. QUALIFYING QUESTIONS\n\n**What brings you to Fashly today?**\n\n1. I want help putting together outfits from what I already own  \n2. I want to organize my wardrobe and see what I actually have  \n3. I want to shop smarter and wear my clothes more often  \n\n**How would you describe your wardrobe right now?**\n\na. Mostly organized — I just need styling inspiration  \nb. A bit chaotic — I have clothes but can't find or pair them easily  \nc. Still building — I'm adding pieces and want guidance on what works together  \n\n---\n\n## 3. JOURNEY NARRATIVE\n\nThe journey starts simply: snap a few photos, and Fashly does the heavy lifting — categorizing items, tagging colors, and building a visual wardrobe grid that finally makes sense. Once users see their closet laid out beautifully, something clicks. They realize they own more than they thought.\n\nFrom there, the AI Stylist becomes their go-to. Instead of guessing what works for tonight's plans, users describe the occasion and get confident outfit recommendations pulled from their own wardrobe. Each suggestion builds trust — and saves time.\n\nAs they wear looks, Fashly tracks what gets used and what sits forgotten. Gentle insights surface: most-worn favorites, neglected gems, and opportunities to remix before buying new. The agent's role is to connect these moments — celebrating wins, nudging underused pieces back into rotation, and learning preferences over time. A user who always picks neutrals gets bolder suggestions when they're ready. Someone prepping for a trip gets capsule outfit plans. Every interaction makes the next recommendation sharper, turning Fashly from a tool into a stylist that actually knows them.\n\n---\n\n## 4. APP SUPPORT MAP\n\n**Creation tools** (photo upload, auto-categorization, clothing cards) are the foundation — recommend these first when users feel overwhelmed or haven't digitized their wardrobe yet. **Tracking tools** (wear logging, utilization metrics, most/least worn insights) shine once users have outfits flowing and want to build sustainable habits or justify what to keep versus let go. **Automation tools** (AI Stylist Dashboard, occasion-based recommendations, smart pairing) are the payoff — introduce these when users ask \"what should I wear?\" or have enough items cataloged to generate meaningful combinations. Match the tool to where they are: organize first, style second, optimize third.\n\n---\n\n## 5. COMMUNITY OPPORTUNITIES\n\nUsers benefit from seeing how others remix similar pieces — a navy blazer styled five different ways, or how someone with a small closet built a week of outfits without repeating. Shared intelligence around \"hidden gem\" items, seasonal rotation tips, and sustainable wear challenges could accelerate confidence faster than solo experimentation. The entrepreneur can harness anonymized styling patterns and community-submitted looks to surface trending combinations and help users discover fresh ways to wear what they already own.\n\n---\n\n## 6. MONETIZATION HOOK\n\nThe free tier should let users upload a meaningful slice of their wardrobe, see their grid come to life, and get a handful of AI-generated outfit recommendations — enough to experience that first \"wait, I already own something perfect for this\" moment. That's the aha: not a feature list, but the feeling of getting dressed with zero stress and genuine confidence.\n\nThe first payment trigger happens right after a successful outfit recommendation for a real upcoming event — when the user thinks, \"I need this before Saturday.\" Pulling out a card feels natural because they've already seen it work with their actual clothes.\n\nStaying subscribed is a different story. Month after month, value comes from the wardrobe getting smarter — wear insights, seasonal planning, unlimited styling requests, and recommendations that improve as the agent learns their taste. The free→paid boundary sits after the initial magic: free proves the stylist knows their closet; paid unlocks unlimited occasions, deeper analytics, advanced remix suggestions, and priority styling for life's busy moments.\n\nDesign backward from payment: catalog enough items, nail one great outfit for something real, then offer the full stylist experience right when they're about to open their calendar or their shopping app. That's when upgrading feels obvious — not forced.\n\n## AI Tool Suite\n### Wear Log\n**Purpose**: Log when wardrobe items are worn and reveal which pieces earn their place in your closet through utilization insights.\n**User Story**: I log what I wear each day so I stop rebuying the same things and finally rediscover pieces buried in my closet.\n\n---\n*Generated on 7/17/2026*\n",
+  "workspaceId": "2646716b-2439-446e-9c51-67aec8e6b4b8",
+  "configId": 230052,
+  "name": "Mura",
+  "tagline": "Wear smarter. Style sustainably.",
+  "logoUrl": "https://storage.googleapis.com/audos-images/brand-icons/3b9f1234-d8ca-4ebc-8e5a-73e4cbf4ff36.mono.png",
+  "iconUrl": "https://storage.googleapis.com/audos-images/brand-icons/3b9f1234-d8ca-4ebc-8e5a-73e4cbf4ff36.mono.png",
+  "logoOnDarkUrl": "https://storage.googleapis.com/audos-images/brand-icons/3b9f1234-d8ca-4ebc-8e5a-73e4cbf4ff36.mono.png",
+  "colors": {
+    "primary": "#ec6f2c",
+    "highlight": "#f8bc67",
+    "contrast": "#000000",
+    "secondary": "#f8bc67",
+    "accent": "#000000",
+    "primaryScale": {
+      "50": "#fdf3ee",
+      "100": "#fce8dd",
+      "200": "#fad7c4",
+      "500": "#d96628",
+      "600": "#ec6f2c",
+      "700": "#c65d25",
+      "900": "#9c491d"
+    },
+    "highlightScale": {
+      "50": "#fefaf3",
+      "100": "#fef4e7",
+      "200": "#fdecd4",
+      "500": "#e4ad5f",
+      "600": "#f8bc67",
+      "700": "#d09e57",
+      "900": "#a47c44"
+    },
+    "surfaces": {
+      "page": "#fef8f4",
+      "pageAlt": "#e6e6e6",
+      "gradientFrom": "#fef8f4",
+      "gradientVia": "#e6e6e6",
+      "gradientTo": "#fdf0de",
+      "card": "#ffffff",
+      "cardHover": "#fef9f7",
+      "panel": "#ffffff",
+      "panelStrong": "#ffffff",
+      "muted": "#fffcfb",
+      "accentSoft": "#fdefdb",
+      "border": "#fbdfd1",
+      "borderStrong": "#f9ceb7"
+    },
+    "text": {
+      "primary": "#421f0c",
+      "secondary": "#7f3c18",
+      "brand": "#421f0c",
+      "accent": "#45351d",
+      "muted": "#a54e1f",
+      "onPrimary": "#000000",
+      "onHighlight": "#000000",
+      "onContrast": "#ec6f2c"
+    },
+    "semantic": {
+      "success": "#16a34a",
+      "warning": "#d97706",
+      "danger": "#dc2626"
+    },
+    "shell": {
+      "buttonText": "#000000",
+      "accentButtonText": "#000000",
+      "dockText": "#000000",
+      "icon": "#45351d",
+      "shadow": "#f9d4c0",
+      "shadowStrong": "#f7c0a2"
+    }
+  },
+  "palette": {
+    "primary": "#ec6f2c",
+    "highlight": "#f8bc67",
+    "contrast": "#000000",
+    "secondary": "#f8bc67",
+    "accent": "#000000",
+    "primaryScale": {
+      "50": "#fdf3ee",
+      "100": "#fce8dd",
+      "200": "#fad7c4",
+      "500": "#d96628",
+      "600": "#ec6f2c",
+      "700": "#c65d25",
+      "900": "#9c491d"
+    },
+    "highlightScale": {
+      "50": "#fefaf3",
+      "100": "#fef4e7",
+      "200": "#fdecd4",
+      "500": "#e4ad5f",
+      "600": "#f8bc67",
+      "700": "#d09e57",
+      "900": "#a47c44"
+    },
+    "surfaces": {
+      "page": "#fef8f4",
+      "pageAlt": "#e6e6e6",
+      "gradientFrom": "#fef8f4",
+      "gradientVia": "#e6e6e6",
+      "gradientTo": "#fdf0de",
+      "card": "#ffffff",
+      "cardHover": "#fef9f7",
+      "panel": "#ffffff",
+      "panelStrong": "#ffffff",
+      "muted": "#fffcfb",
+      "accentSoft": "#fdefdb",
+      "border": "#fbdfd1",
+      "borderStrong": "#f9ceb7"
+    },
+    "text": {
+      "primary": "#421f0c",
+      "secondary": "#7f3c18",
+      "brand": "#421f0c",
+      "accent": "#45351d",
+      "muted": "#a54e1f",
+      "onPrimary": "#000000",
+      "onHighlight": "#000000",
+      "onContrast": "#ec6f2c"
+    },
+    "semantic": {
+      "success": "#16a34a",
+      "warning": "#d97706",
+      "danger": "#dc2626"
+    },
+    "shell": {
+      "buttonText": "#000000",
+      "accentButtonText": "#000000",
+      "dockText": "#000000",
+      "icon": "#45351d",
+      "shadow": "#f9d4c0",
+      "shadowStrong": "#f7c0a2"
+    }
+  },
+  "pickedBrandColor": "#ec6f2c",
+  "typography": {
+    "font": "Fraunces",
+    "category": "serif",
+    "weights": [
+      400,
+      500
+    ],
+    "headingFont": "Fraunces",
+    "bodyFont": "Inter"
+  },
+  "heroVideoUrl": "https://storage.googleapis.com/audos-images/videos/scene_group_1784326798277_stitched.mp4"
+}
